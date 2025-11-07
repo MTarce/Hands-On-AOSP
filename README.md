@@ -39,8 +39,10 @@ Este repositório contém um trabalho prático sobre a alteração da tela de de
   - Desenvolvimento das alterações em Java
   - Aplicação de patches e testes
 
-- **Desenvolvedor 5**
+- **Diego Augusto de Abreu Furtado**
   - Pesquisa do código responsável pela tela de desbloqueio
+  - [Diagrama de sequencia](https://github.com/MTarce/Hands-On-AOSP/blob/main/Diagrama.jpg)
+  - [Script bash](https://github.com/MTarce/Hands-On-AOSP/blob/main/setup_aosp.sh) Obs.: precisa definir a permissão de execução com "chmod a+x"
   - Documentação da atividade
 
 ## Recursos
